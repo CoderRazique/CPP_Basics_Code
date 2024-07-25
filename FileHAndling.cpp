@@ -108,14 +108,6 @@ void showData()
 	s.disp();
 }
 
-
-
-
-
-
-
-
-
 int main()
 {
 	while(1)
